@@ -1,4 +1,4 @@
-# Retail Sales & Customer Analytics â€” SQL Project
+# Retail Sales & Customer Analytics SQL Project
 
 A self-contained SQL analytics project simulating a retail e-commerce
 business, built to demonstrate the SQL skills Data Analyst interviews
